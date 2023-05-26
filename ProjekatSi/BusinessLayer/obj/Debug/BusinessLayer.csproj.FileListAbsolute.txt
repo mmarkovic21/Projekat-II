@@ -1,0 +1,32 @@
+C:\Users\win7\Desktop\333\ProjekatSi\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\win7\Desktop\333\ProjekatSi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\win7\Desktop\333\ProjekatSi\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\win7\Desktop\333\ProjekatSi\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\win7\Desktop\333\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\win7\Desktop\333\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\win7\Desktop\333\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\win7\Desktop\333\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Marija\Desktop\Projekat SI\ProjekatSi\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Marija\Desktop\Projekat SI\ProjekatSi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Marija\Desktop\Projekat SI\ProjekatSi\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Marija\Desktop\Projekat SI\ProjekatSi\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Marija\Desktop\Projekat SI\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Marija\Desktop\Projekat SI\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Marija\Desktop\Projekat SI\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Marija\Desktop\Projekat SI\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Marija\Desktop\deleteMe\ProjekatSi\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Marija\Desktop\deleteMe\ProjekatSi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Marija\Desktop\deleteMe\ProjekatSi\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Marija\Desktop\deleteMe\ProjekatSi\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Marija\Desktop\deleteMe\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Marija\Desktop\deleteMe\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Marija\Desktop\deleteMe\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Marija\Desktop\deleteMe\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Marija\OneDrive\Radna površina\Projekat II\ProjekatSi\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Marija\OneDrive\Radna površina\Projekat II\ProjekatSi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Marija\OneDrive\Radna površina\Projekat II\ProjekatSi\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Marija\OneDrive\Radna površina\Projekat II\ProjekatSi\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Marija\OneDrive\Radna površina\Projekat II\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Marija\OneDrive\Radna površina\Projekat II\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Marija\OneDrive\Radna površina\Projekat II\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Marija\OneDrive\Radna površina\Projekat II\ProjekatSi\BusinessLayer\obj\Debug\BusinessLayer.pdb

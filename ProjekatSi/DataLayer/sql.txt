@@ -1,0 +1,32 @@
+﻿BEGIN
+CREATE TABLE [dbo].[Kupci] (
+    [Sifra]   INT           NOT NULL,
+    [Naziv]   NVARCHAR (50) NULL,
+    [Adresa]  NVARCHAR (50) NULL,
+    [Pib]     INT           NULL,
+    [Kontakt] INT           NULL,
+    PRIMARY KEY CLUSTERED ([Sifra] ASC)
+);
+
+CREATE TABLE [dbo].[Artikli] (
+    [SifraArtikla] INT           NOT NULL,
+    [NazivArtikla] NVARCHAR (50) NULL,
+    [Cena]         INT           NULL,
+    [Kolicina]     INT           NULL,
+    PRIMARY KEY CLUSTERED ([SifraArtikla] ASC)
+);
+
+CREATE TABLE [dbo].[Kupovine] (
+    [SifraRacuna] INT           NOT NULL,
+    [SifraKupca]        INT           NOT NULL,
+    [NazivKupca]        NVARCHAR (50) NULL,
+    [SifraArtikla]      INT           NOT NULL,
+    [NazivArtikla]      NVARCHAR (50) NULL,
+    [Kolicina]          INT           NULL,
+    [Cena]              INT           NULL,
+    [Datum]             NVARCHAR (50) NULL,
+    CONSTRAINT [SifraKupovine] PRIMARY KEY CLUSTERED ([SifraRacuna] ASC),
+    CONSTRAINT [SifraFK] FOREIGN KEY ([SifraKupca]) REFERENCES [dbo].[Kupci] ([Sifra]),
+    CONSTRAINT [ArtikliFK] FOREIGN KEY ([SifraArtikla]) REFERENCES [dbo].[Artikli] ([SifraArtikla])
+);
+END;
